@@ -1,6 +1,6 @@
 # Diogo Walter
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou Diogo
 
