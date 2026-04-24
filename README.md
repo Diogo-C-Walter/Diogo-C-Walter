@@ -31,7 +31,7 @@ Meu Instagram é [@diogowalter456](https://instagram.com/diogowalter456)
 <img
 align="left"
 alt="JavaScript"
-title="JavaScript"LO
+title="JavaScript"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -39,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <img 
     align="left" 
     alt="Git" 
-    title="Git"P
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
