@@ -7,10 +7,6 @@ Sou Diogo Enrico de Camargo Walter
 
 🌐 Atualmente focado em desenvovimento Full Stack
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
