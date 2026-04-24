@@ -50,12 +50,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 ### 📊 Estatísticas
 
 <p>
-  <img 
+    <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Diogo-C-Walter&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Diogo-C-Walter&show_icons=true&theme=onedark" 
   />
 
 <img 
