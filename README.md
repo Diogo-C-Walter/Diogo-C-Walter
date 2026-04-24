@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Diogo Enrico de Camargo Walter tenho 20 anos, sou de Boituva SP. Sempre gostei de computadores e agora de montá-los, mas com um apego em programação e jogos, ainda não tive nenhuma experiência nisso mas pretendo no futuro.
+Sou Diogo Enrico de Camargo Walter tenho 20 anos, sou de Boituva SP. Sempre gostei de computadores e agora de montá-los, mas com um apego em programação e jogos, ainda não tive nenhuma experiênciade programação em jogos mas pretendo no futuro.
 Meu Instagram é [@diogowalter456](https://instagram.com/diogowalter456)   
 💻 Estudante de Ciência da Computação e formado em Análise e Desenvolvimento de Sistemas.
 
