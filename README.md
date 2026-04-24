@@ -6,11 +6,11 @@ Sou Diogo Enrico de Camargo Walter tenho 20 anos, sou de Boituva SP. Sempre gost
 Meu Instagram é [@diogowalter456](https://instagram.com/diogowalter456)   
 💻 Estudante de Ciência da Computação e formado em Análise e Desenvolvimento de Sistemas.
 
-🌐 Atualmente focado em desenvovimento Full Stack
+🌐 Atualmente focado em desenvolvimento Full Stack
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 </p>
 
-</p>
+
 
 
 
