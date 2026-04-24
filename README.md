@@ -2,7 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Diogo
+Sou Diogo Enrico de Camargo Walter
+💻 Estudante de Ciência da Computação e formado em Análise e Desenvolvimento de Sistemas.
+
+🌐 Atualmente focado em desenvovimento Full Stack
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
