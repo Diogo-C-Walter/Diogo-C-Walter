@@ -4,7 +4,7 @@
 
 Sou Diogo Enrico de Camargo Walter tenho 20 anos, sou de Boituva SP. Sempre gostei de computadores e agora de montá-los, mas com um apego em programação e jogos, ainda não tive nenhuma experiênciade programação em jogos mas pretendo no futuro.
 Meu Instagram é [@diogowalter456](https://instagram.com/diogowalter456)   
-💻 Estudante de Ciência da Computação (Cruzeiro do Sul Virtual), formado em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Ceunsp ITU).
+💻 Estudante de Ciência da Computação (Unicid - Graduação EAD), formado em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Ceunsp ITU).
 
 🌐 Atualmente focado em desenvolvimento Full Stack
 
